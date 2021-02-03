@@ -1,7 +1,6 @@
 {
   "name": "fractal",
   "private": true,
-  "version": "1.5.2",
   "dependencies": {
     "@allmarkedup/fang": "^1.0.0",
     "anymatch": "^2.0.0",
